@@ -1,10 +1,8 @@
 {
   "login": {
-    "blocks": [],
-    "inheritComponent": true
+    "blocks": []
   },
   "login-content": {
-    "blocks": [],
-    "inheritComponent": true
+    "blocks": []
   }
 }

@@ -1,7 +1,7 @@
 {
-  "vendor": "vtex",
+  "vendor": "coppelar",
   "name": "login",
-  "version": "2.3.0",
+  "version": "0.0.0",
   "title": "VTEX Login",
   "defaultLocale": "pt-BR",
   "description": "The VTEX Login app",
@@ -25,5 +25,6 @@
     "vtex.store-resources": "0.x",
     "vtex.use-svg": "0.x",
     "vtex.auth": "2.x"
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
